@@ -1,2 +1,2 @@
 # mini-banking-account
-Mini banking system backend project made using FastAPI
+Mini banking system backend made using FastAPI
